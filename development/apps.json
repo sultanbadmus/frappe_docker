@@ -12,6 +12,6 @@
     {
         "name": "lafia",
         "branch": "sultan-patch",
-        "url": "https://sultanbadmus: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/parallelscore/Lafia-WebApp-ERPNext-"
+        "url": "https://sultanbadmus:${{PERSONAL_ACCESS_TOKEN }}/parallelscore/Lafia-WebApp-ERPNext-"
     }
 ]
