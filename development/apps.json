@@ -1,19 +1,19 @@
 {
     "client_name": [
-      {
-        "name": "healthcare",
-        "branch": "develop",
-        "url": "https://github.com/frappe/health"
-      },
-      {
-        "name": "chat",
-        "branch": "main",
-        "url": "https://github.com/frappe/chat"
-      },
-      {
-        "name": "lafia",
-        "branch": "sultan-patch",
-        "url": "https://sultanbadmus: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/parallelscore/Lafia-WebApp-ERPNext-"
-      }
+        {
+            "name": "healthcare",
+            "branch": "develop",
+            "url": "https://github.com/frappe/health"
+        },
+        {
+            "name": "chat",
+            "branch": "main",
+            "url": "https://github.com/frappe/chat"
+        },
+        {
+            "name": "lafia",
+            "branch": "sultan-patch",
+            "url": "https://sultanbadmus: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/parallelscore/Lafia-WebApp-ERPNext-"
+        }
     ]
 }
